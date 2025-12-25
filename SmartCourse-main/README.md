@@ -106,3 +106,8 @@ Personalized dashboard showing:
 - Lesson list with completion status
 - Lesson content viewer
 - AI Tutor integration
+
+
+https://smart-course-u4nn.vercel.app/login
+enlik@gmail.com
+123123123
